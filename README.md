@@ -20,7 +20,7 @@ MSc Data Analytics candidate at the National College of Ireland (graduating Jan 
 | Project | What it does |
 |---|---|
 | [financial-distress-shap-llm](https://github.com/subhashlorajat/financial-distress-shap-llm) | Predicts company financial distress (XGBoost, F1-macro 0.847) and explains predictions using SHAP plus an LLM narrative layer |
-| [dublin-green-premium-etl](https://github.com/subhashlorajat/dublin-green-premium-etl) | ETL and geospatial pipeline linking Dublin property prices to air quality and green space access |
+| [suez-canal-queueing-sim](https://github.com/subhashlorajat/suez-canal-queueing-sim) | Discrete-event queueing simulation of Suez Canal convoy transits, comparing scheduling policies under congestion |
 | [fc-highbury-bi-crm](https://github.com/subhashlorajat/fc-highbury-bi-crm) | Salesforce CRM plus Power BI project for a football club, automation lifted SLA compliance from 33% to 100% |
 | [gdp-growth-ml](https://github.com/subhashlorajat/gdp-growth-ml) | ML model bake-off explaining GDP growth drivers across 5 economies with time-series-aware validation |
 | [creditcard-fraud-detection](https://github.com/subhashlorajat/creditcard-fraud-detection) | Time-aware fraud classifier evaluated on real business cost, not just accuracy |
