@@ -21,8 +21,13 @@ results, and stated limitations — pick any repo and you can reproduce the numb
 | **Analysis & modelling** | Regression, classification, time-series validation, discrete-event simulation, optimisation, SHAP explainability |
 | **BI & reporting** | Power BI, Excel, Salesforce CRM |
 
-**Certifications:** Microsoft Fabric Data Engineer Associate (DP-700) · Fabric Analytics
-Engineer Associate (DP-600, in progress) · IBM Data Analyst Professional Certificate (in progress)
+**Certifications (all completed):** Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+· Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) · IBM Data Analyst
+Professional Certificate
+
+**MSc thesis, due December 2026:** *Effectiveness of RAG for Domain-Specific Q&A* — testing whether
+retrieval-augmented generation reduces factual errors as well on dense specialist documents
+(financial reports, substance-use research) as it does on general knowledge.
 
 ---
 
